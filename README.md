@@ -1,4 +1,6 @@
-# NtFileSins v2.2 Windows File Enumeration Intel Gathering Tool.
+# NtFileSins 
+
+NtFileSins v2.2 Windows File Enumeration Intel Gathering Tool.
 
 Python v3 compatible, with few enhancements made.
 
